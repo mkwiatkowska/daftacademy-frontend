@@ -1,4 +1,4 @@
-import './styles/style.sass';
-import defaultExport from './script';
+import './styles/style.sass'
+// import fun from './script'
 
-defaultExport();
+// fun()
